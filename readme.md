@@ -1,5 +1,5 @@
- Doctor's Office
- ================
+Doctor's Office
+================
 
 - Add a doctor to the system, including their name and specialty as columns. Practice using attr_reader, and hashes to initialize your objects.
 - Add a patient to the system, including their name and birthdate.
@@ -11,5 +11,3 @@
 - Add an appointment, including the doctor, patient, date, and cost.
 - Choose a doctor, input a date range, and view how much the doctor billed in that time. Use the SQL SUM function.
 - Search for a patient by name. Again, search online to figure out how to do this.
-
-© 2014 Epicodus, Inc.
